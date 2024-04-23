@@ -13,6 +13,7 @@ public class SwappingOfTwoNumbers {
             int temp = x;
             x = y;
             y = temp;
+            System.out.println("Namasthey");
             System.out.println("After swapping: x=" + x + ", y=" + y);
         }
     }
